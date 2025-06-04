@@ -1,13 +1,22 @@
-<ul className="list-disc list-inside space-y-2 text-lg">
-  <li>Python</li>
-  <li>C++</li>
-  <li>Linux System Administration</li>
-  <li>Nginx / Apache Server Configuration</li>
-  <li>SSL/TLS Setup & Certificate Management</li>
-  <li>Firewall & WAF Configuration (e.g., Cloudflare, ModSecurity)</li>
-  <li>Security Auditing Tools (e.g., Nikto, OWASP ZAP)</li>
-  <li>Monitoring & Logging (e.g., UptimeRobot, Logwatch)</li>
-  <li>Backup & Disaster Recovery (e.g., rsync, cron jobs, Snapshots)</li>
-  <li>Incident Response Planning</li>
-  <li>Compliance & Privacy Standards (GDPR, ISO 27001 basics)</li>
-</ul>
+# AI Platform React
+
+Welcome to the **AI Platform React** project!  
+This React app provides a simple UI to access AI-powered tools: a LinkedIn Post Generator and an OpenAI Assistant. It's built with React Router for navigation and styled with Tailwind CSS.
+
+---
+
+## Features
+
+- **Home Page**: Welcome screen with navigation buttons to AI tools.
+- **LinkedIn Post Generator**: Generate professional LinkedIn posts powered by AI.
+- **OpenAI Assistant**: Chat and interact with OpenAI's API for various AI-assisted tasks.
+- **Back Button**: Navigate back easily to the home screen from tools.
+
+---
+
+
+
+
+# Rename this file to '.env' and add your OpenAI API key here
+
+VITE_GREETING=your_ai_api_key_here
