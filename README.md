@@ -15,8 +15,6 @@ This React app provides a simple UI to access AI-powered tools: a LinkedIn Post 
 ---
 
 
-
-
 # Rename this file to '.env' and add your OpenAI API key here
 
 VITE_GREETING=your_ai_api_key_here
